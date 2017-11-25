@@ -1,0 +1,45 @@
+.link {
+    color: #fff;
+    font-size: 1.2em;
+}
+.link:hover {
+    color: rgb(82, 146, 146);
+}
+.Each-table {
+    padding: 20px;
+    background-color: #5c5a5a91;
+    border-radius: 10px;
+    
+}
+tr {
+    color: #fff;
+
+}
+tr:hover{
+    color: rgb(115, 190, 219);
+    text-decoration: none;
+    text-shadow: #fff 0px 0px 10px;
+    -webkit-font-smoothing: antialiased;
+}
+.outline {
+    color: #fff;
+    text-shadow: rgb(115, 190, 219) 0px 0px 10px;
+    -webkit-font-smoothing: antialiased;
+}
+.icon-logo {
+    text-align: center;
+    align-content: center;
+    margin: auto;
+    width: 128px;
+    height: 128px;
+    /* border: 3px solid green; */
+    padding: 10px;
+}
+.center{
+    display: 'flex';
+    justify-content: 'center'
+}
+.popover{
+    font-family: 'Mitr', sans-serif;
+    color: rgb(81, 144, 163);
+}

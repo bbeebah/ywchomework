@@ -1,0 +1,13 @@
+.navbar {
+    background-color: rgba(239, 253, 255, 0.979);
+    flex: 0 0 auto;
+}
+
+.nav-logo {
+    /* animation: App-logo-spin infinite 20s linear; */
+    height: 40px;
+    -webkit-filter: invert(100%);
+}
+body{
+    margin-top: 50px;
+}
