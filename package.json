@@ -8,7 +8,7 @@
     "react": "^16.1.1",
     "react-dom": "^16.1.1",
     "react-router": "3.*",
-    "react-scripts": "1.0.17",
+    "react-scripts": "^2.1.8",
     "reactstrap": "^5.0.0-alpha.4"
   },
   "scripts": {
@@ -19,5 +19,14 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "http://bbeebah.github.io/ywchomework"
+  "homepage": "http://bbeebah.github.io/ywchomework",
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }
